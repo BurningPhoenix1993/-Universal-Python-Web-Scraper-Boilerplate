@@ -1,2 +1,7 @@
-# -Universal-Python-Web-Scraper-Boilerplate
-Take any website URL and a CSS selector or XPath as input.  Fetch and parse web page content.  Output clean, structured data (CSV, Excel, JSON).
+# Universal Python Web Scraper
+
+A ready-to-use Python script for quickly scraping web data by CSS selector.
+
+## 🚀 Quick Start
+
+Clone this repo and install dependencies:
